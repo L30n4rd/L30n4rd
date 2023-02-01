@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @L30n4rd
-- 👀 I’m interested in robots, web-dev, computer graphic, longboarding, badminton ...
-- 🌱 I’m currently learning Power Platform.
-- 💞️ I’m looking to collaborate on something related to robots.
+- 👀 I’m interested in robotics, computer graphic, web-dev, embedded software  ...
+- 🌱 I’m currently learning Qt with C++.
 - 📫 How to reach me: l30n4rd97(at)gmail.com.
 
 <!---
