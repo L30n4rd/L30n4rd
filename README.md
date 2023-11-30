@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @L30n4rd
 - 👀 I’m interested in robotics, AI, embedded software, web-dev, computer graphics  ...
-- 🌱 I’m currently learning how to use a LLM for question answerings over a set of documents.
 - 📫 How to reach me: l30n4rd97(at)gmail.com.
 
 <!---
